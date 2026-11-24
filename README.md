@@ -58,15 +58,15 @@ The main objectives were to:
 
 The screenshot below shows the DataCo Global Sales Overview page.
 
-![DataCo Global Sales Overview Dashboard](images/dataco_dashboard.png)
+![DataCo Global Sales Overview Dashboard](dataco-analysis.png)
 
 **Explore the full interactive report:**
 
-[Click here to view the full Power BI report](YOUR_POWER_BI_REPORT_LINK)
+[Click here to view the full Power BI report](https://app.powerbi.com/view?r=eyJrIjoiNTZmOTg2NTQtZTU4ZS00ZWNhLThlYjktMTZiMjA4OGQxNDg3IiwidCI6ImI5OGY0MWY5LWVlZWYtNDNkMC04MWU3LTQzOTU0MzFjYzkwNiJ9)
 
 **Access the project file:**
 
-[Click here to view or download the Power BI file](YOUR_PBIX_FILE_LINK)
+[Click here to view or download the Power BI file](dataco-global-sales-analysis.pbix)
 
 ## Dataset Overview
 
